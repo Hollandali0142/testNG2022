@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e863d16-9d52-493e-a538-ab826d00817b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/excelautomation/Day12_C12_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/excelautomation/Day13_C13_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/excelautomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tests/Day12_C11_WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/utilities/ExcelUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/utilities/JSUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/utilities/ReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Baskent.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/smoketestdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C16_DataProvider1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C16_DataProvider2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javascriptexecutor/Day14_C15_JSUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/excelautomation/Day13_C14_LoginSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/excelautomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pages/MainPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,25 +49,8 @@
       <recent name="C:\Users\Acer\IdeaProjects\testNG2022\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day13_C13_WriteExcel">
-    <configuration name="Day12_C11_WebTables" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.tests.Day12_C11_WebTables" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day12_C12_ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Day14_C15_JSUtils.chanceColor">
+    <configuration name="Day13_C14_LoginSmokeTest.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
@@ -82,25 +59,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.excelautomation" />
-      <option name="MAIN_CLASS_NAME" value="com.excelautomation.Day12_C12_ReadExcel" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day12_C12_ReadExcel.excelUtilDemo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.excelautomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.excelautomation" />
-      <option name="MAIN_CLASS_NAME" value="com.excelautomation.Day12_C12_ReadExcel" />
-      <option name="METHOD_NAME" value="excelUtilDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.excelautomation.Day13_C14_LoginSmokeTest" />
+      <option name="METHOD_NAME" value="managerLoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -108,17 +68,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day12_C12_ReadExcel.readExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C15_JSUtils.chanceColor" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.excelautomation.*" />
+          <option name="PATTERN" value="com.javascriptexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.excelautomation" />
-      <option name="MAIN_CLASS_NAME" value="com.excelautomation.Day12_C12_ReadExcel" />
-      <option name="METHOD_NAME" value="readExcel" />
+      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
+      <option name="METHOD_NAME" value="chanceColor" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -126,17 +86,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day13_C13_WriteExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C15_JSUtils.clickByJS" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.excelautomation.*" />
+          <option name="PATTERN" value="com.javascriptexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.excelautomation" />
-      <option name="MAIN_CLASS_NAME" value="com.excelautomation.Day13_C13_WriteExcel" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
+      <option name="METHOD_NAME" value="clickByJS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day14_C15_JSUtils.flashJS" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javascriptexecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
+      <option name="METHOD_NAME" value="flashJS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day14_C15_JSUtils.scrollIntoView" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javascriptexecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
+      <option name="METHOD_NAME" value="scrollIntoView" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -145,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day13_C13_WriteExcel" />
-        <item itemvalue="TestNG.Day12_C12_ReadExcel.excelUtilDemo" />
-        <item itemvalue="TestNG.Day12_C12_ReadExcel" />
-        <item itemvalue="TestNG.Day12_C12_ReadExcel.readExcel" />
-        <item itemvalue="TestNG.Day12_C11_WebTables" />
+        <item itemvalue="TestNG.Day14_C15_JSUtils.chanceColor" />
+        <item itemvalue="TestNG.Day14_C15_JSUtils.flashJS" />
+        <item itemvalue="TestNG.Day14_C15_JSUtils.clickByJS" />
+        <item itemvalue="TestNG.Day14_C15_JSUtils.scrollIntoView" />
+        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -187,10 +184,24 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javascriptexecutor/Day14_C15_JSUtils.java</url>
+          <line>74</line>
+          <properties class="com.javascriptexecutor.Day14_C15_JSUtils" method="flashJS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/excelautomation/Day12_C12_ReadExcel.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javascriptexecutor/Day14_C15_JSUtils.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
