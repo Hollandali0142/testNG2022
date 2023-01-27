@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e863d16-9d52-493e-a538-ab826d00817b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C16_DataProvider1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C16_DataProvider2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/javascriptexecutor/Day14_C15_JSUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel-testing-1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel-testing-2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regressiontest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-methods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoketest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C17_DataProvider2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C18_DataProvider3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/paralleltesting/ManagerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/paralleltesting/SearchItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/paralleltesting/WebTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/excelautomation/Day13_C14_LoginSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/excelautomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C16_DataProvider1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C16_DataProvider1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dataprovider/Day14_C16_DataProvider2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tests/Day09_C1_TestNGAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tests/Day09_C1_TestNGAnnotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tests/Day12_C11_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tests/Day12_C11_WebTables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,91 +61,58 @@
       <recent name="C:\Users\Acer\IdeaProjects\testNG2022\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day14_C15_JSUtils.chanceColor">
-    <configuration name="Day13_C14_LoginSmokeTest.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Acer/IdeaProjects/testNG2022/regressiontest.xml">
+    <configuration name="C:/Users/Acer/IdeaProjects/testNG2022/parallel-testing-1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.excelautomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.excelautomation" />
-      <option name="MAIN_CLASS_NAME" value="com.excelautomation.Day13_C14_LoginSmokeTest" />
-      <option name="METHOD_NAME" value="managerLoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallel-testing-1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C15_JSUtils.chanceColor" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Acer/IdeaProjects/testNG2022/parallel-testing-2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javascriptexecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
-      <option name="METHOD_NAME" value="chanceColor" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallel-testing-2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C15_JSUtils.clickByJS" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Acer/IdeaProjects/testNG2022/regressiontest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javascriptexecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
-      <option name="METHOD_NAME" value="clickByJS" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/regressiontest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C15_JSUtils.flashJS" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Acer/IdeaProjects/testNG2022/run-groups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javascriptexecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
-      <option name="METHOD_NAME" value="flashJS" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-groups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C15_JSUtils.scrollIntoView" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C17_DataProvider2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javascriptexecutor.*" />
+          <option name="PATTERN" value="com.dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtils" />
-      <option name="METHOD_NAME" value="scrollIntoView" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="com.dataprovider.Day14_C17_DataProvider2" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -142,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day14_C15_JSUtils.chanceColor" />
-        <item itemvalue="TestNG.Day14_C15_JSUtils.flashJS" />
-        <item itemvalue="TestNG.Day14_C15_JSUtils.clickByJS" />
-        <item itemvalue="TestNG.Day14_C15_JSUtils.scrollIntoView" />
-        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest" />
+        <item itemvalue="TestNG.C:/Users/Acer/IdeaProjects/testNG2022/regressiontest.xml" />
+        <item itemvalue="TestNG.Day14_C17_DataProvider2" />
+        <item itemvalue="TestNG.C:/Users/Acer/IdeaProjects/testNG2022/parallel-testing-2.xml" />
+        <item itemvalue="TestNG.C:/Users/Acer/IdeaProjects/testNG2022/parallel-testing-1.xml" />
+        <item itemvalue="TestNG.C:/Users/Acer/IdeaProjects/testNG2022/run-groups.xml" />
       </list>
     </recent_temporary>
   </component>

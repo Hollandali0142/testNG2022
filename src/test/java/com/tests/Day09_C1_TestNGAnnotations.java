@@ -32,7 +32,7 @@ public class Day09_C1_TestNGAnnotations {
 
     }
 
-    @Test(priority = 2)
+    @Test(priority = 2, groups = "tet-group-1")
     public void test6(){
         System.out.println("Test 6");
 
@@ -68,7 +68,7 @@ public class Day09_C1_TestNGAnnotations {
 
         }
 
-    @Test(priority = 1)
+    @Test(priority = 1,groups = "tet-group-1")
 
     public void test7 () {
         System.out.println("Test 7");

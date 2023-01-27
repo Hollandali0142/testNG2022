@@ -58,7 +58,7 @@ public class Day12_C11_WebTables {
 
         }
     //    test method: entireTable() ve tum header'lari yazdir
-        @Test
+        @Test(groups = "tet-group-1")
     public void entireTable(){
 
           //  setUp();==>bifore yazamadanda bu metd ile islem yapabiliriz
